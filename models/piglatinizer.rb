@@ -1,5 +1,3 @@
-
-
 class Piglatinizer::SinatraBase
   
 end
